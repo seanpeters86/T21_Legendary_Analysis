@@ -83,102 +83,102 @@ crucible=1783:1
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_TtW","LotV"
-crucible=1780:3
+crucible=1780:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_Shadowbind","LotV"
-crucible=1778:3
+crucible=1778:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_CD","LotV"
-crucible=1779:3
+crucible=1779:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_DS","LotV"
-crucible=1781:3
+crucible=1781:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_MoS","LotV"
-crucible=1771:3
+crucible=1771:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_MI","LotV"
-crucible=1774:3
+crucible=1774:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_Shocklight","LotV"
-crucible=1777:3
+crucible=1777:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_LS","LotV"
-crucible=1770:3
+crucible=1770:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_SitL","LotV"
-crucible=1782:3
+crucible=1782:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="LotV_Insignia_IoL","LotV"
-crucible=1783:3
+crucible=1783:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # S2M
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_TtW","S2M"
-crucible=1780:3
+crucible=1780:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_Shadowbind","S2M"
-crucible=1778:3
+crucible=1778:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_CD","S2M"
-crucible=1779:3
+crucible=1779:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_DS","S2M"
-crucible=1781:3
+crucible=1781:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_MoS","S2M"
-crucible=1771:3
+crucible=1771:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_MI","S2M"
-crucible=1774:3
+crucible=1774:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_Shocklight","S2M"
-crucible=1777:3
+crucible=1777:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_LS","S2M"
-crucible=1770:3
+crucible=1770:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_SitL","S2M"
-crucible=1782:3
+crucible=1782:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
 
 # Insignia of the Grand Army
 copy="S2M_Insignia_IoL","S2M"
-crucible=1783:3
+crucible=1783:1
 finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=130220
