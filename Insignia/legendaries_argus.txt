@@ -1,4 +1,5 @@
 profile,actor,DD,DPS
+
 son_st_gear_big_add.simc_HeavyMovement_1_400,LotV,493705662.83,1303014.50,
 son_st_gear_big_add.simc_HeavyMovement_1_400,S2M,550090660.42,1448330.32,
 son_st_gear_big_add.simc_HeavyMovement_1_400,LotV_torment_the_weak,495817052.75,1308118.79,
