@@ -67,6 +67,16 @@ priest_suppress_sephuz=1
 shoulder=mother_shahrazs_seduction,id=132437,ilevel=970
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
+copy="LotV_Shoulders_SotHP-FotM","LotV"
+shoulder=mother_shahrazs_seduction,id=132437,ilevel=970
+talents=2211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Shoulders_SotHP-SWV","LotV"
+shoulder=mother_shahrazs_seduction,id=132437,ilevel=970
+talents=3211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
 copy="LotV_Wrists_Belt","LotV"
 wrists=anunds_seared_shackles,id=132409,ilevel=970
 waist=mangazas_madness,id=132864,ilevel=970
@@ -90,6 +100,16 @@ priest_suppress_sephuz=1
 wrists=anunds_seared_shackles,id=132409,ilevel=970
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
+copy="LotV_Wrists_SotHP-FotM","LotV"
+wrists=anunds_seared_shackles,id=132409,ilevel=970
+talents=2211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Wrists_SotHP-SWV","LotV"
+wrists=anunds_seared_shackles,id=132409,ilevel=970
+talents=3211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
 copy="LotV_Belt_Cloak","LotV"
 waist=mangazas_madness,id=132864,ilevel=970
 back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
@@ -109,6 +129,16 @@ priest_suppress_sephuz=1
 waist=mangazas_madness,id=132864,ilevel=970
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
+copy="LotV_Belt_SotHP-FotM","LotV"
+waist=mangazas_madness,id=132864,ilevel=970
+talents=2211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Belt_SotHP-SWV","LotV"
+waist=mangazas_madness,id=132864,ilevel=970
+talents=3211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
 copy="LotV_Cloak_Chest","LotV"
 back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
 hands=gloves_of_blind_absolution,id=147164,ilevel=930
@@ -126,6 +156,18 @@ priest_suppress_sephuz=1
 hands=gloves_of_blind_absolution,id=147164,ilevel=930
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
+copy="LotV_Cloak_SotHP-FotM","LotV"
+back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+talents=2211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Cloak_SotHP-SWV","LotV"
+back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+talents=3211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
 copy="LotV_Chest_Sephuz","LotV"
 chest=,id=151814,ilevel=970
 hands=gloves_of_blind_absolution,id=147164,ilevel=930
@@ -136,6 +178,40 @@ priest_suppress_sephuz=1
 chest=,id=151814,ilevel=970
 hands=gloves_of_blind_absolution,id=147164,ilevel=930
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Chest_SotHP-FotM","LotV"
+chest=,id=151814,ilevel=970
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+talents=2211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Chest_SotHP-SWV","LotV"
+chest=,id=151814,ilevel=970
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+talents=3211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Sephuz_SotHP-FotM","LotV"
+talents=2211231
+finger1=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Sephuz_SotHP-SWV","LotV"
+talents=3211231
+finger1=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Sephuz_NoProc_SotHP-FotM","LotV"
+talents=2211231
+priest_suppress_sephuz=1
+finger1=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="LotV_Sephuz_NoProc_SotHP-SWV","LotV"
+talents=3211231
+priest_suppress_sephuz=1
+finger1=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
 # S2M
 
@@ -166,6 +242,16 @@ priest_suppress_sephuz=1
 shoulder=mother_shahrazs_seduction,id=132437,ilevel=970
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
+copy="S2M_Shoulders_SotHP-FotM","S2M"
+shoulder=mother_shahrazs_seduction,id=132437,ilevel=970
+talents=2211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Shoulders_SotHP-SWV","S2M"
+shoulder=mother_shahrazs_seduction,id=132437,ilevel=970
+talents=3211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
 copy="S2M_Wrists_Belt","S2M"
 wrists=anunds_seared_shackles,id=132409,ilevel=970
 waist=mangazas_madness,id=132864,ilevel=970
@@ -189,6 +275,16 @@ priest_suppress_sephuz=1
 wrists=anunds_seared_shackles,id=132409,ilevel=970
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
+copy="S2M_Wrists_SotHP-FotM","S2M"
+wrists=anunds_seared_shackles,id=132409,ilevel=970
+talents=2211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Wrists_SotHP-SWV","S2M"
+wrists=anunds_seared_shackles,id=132409,ilevel=970
+talents=3211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
 copy="S2M_Belt_Cloak","S2M"
 waist=mangazas_madness,id=132864,ilevel=970
 back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
@@ -208,6 +304,16 @@ priest_suppress_sephuz=1
 waist=mangazas_madness,id=132864,ilevel=970
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
+copy="S2M_Belt_SotHP-FotM","S2M"
+waist=mangazas_madness,id=132864,ilevel=970
+talents=2211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Belt_SotHP-SWV","S2M"
+waist=mangazas_madness,id=132864,ilevel=970
+talents=3211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
 copy="S2M_Cloak_Chest","S2M"
 back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
 hands=gloves_of_blind_absolution,id=147164,ilevel=930
@@ -225,6 +331,18 @@ priest_suppress_sephuz=1
 hands=gloves_of_blind_absolution,id=147164,ilevel=930
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
+copy="S2M_Cloak_SotHP-FotM","S2M"
+back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+talents=2211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Cloak_SotHP-SWV","S2M"
+back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+talents=3211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
 copy="S2M_Chest_Sephuz","S2M"
 chest=,id=151814,ilevel=970
 hands=gloves_of_blind_absolution,id=147164,ilevel=930
@@ -235,5 +353,39 @@ priest_suppress_sephuz=1
 chest=,id=151814,ilevel=970
 hands=gloves_of_blind_absolution,id=147164,ilevel=930
 finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Chest_SotHP-FotM","S2M"
+chest=,id=151814,ilevel=970
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+talents=2211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Chest_SotHP-SWV","S2M"
+chest=,id=151814,ilevel=970
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+talents=3211233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Sephuz_SotHP-FotM","S2M"
+talents=2211233
+finger1=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Sephuz_SotHP-SWV","S2M"
+talents=3211233
+finger1=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Sephuz_NoProc_SotHP-FotM","S2M"
+talents=2211233
+priest_suppress_sephuz=1
+finger1=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+copy="S2M_Sephuz_NoProc_SotHP-SWV","S2M"
+talents=3211233
+priest_suppress_sephuz=1
+finger1=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
 
 raid_events+=/adds,count=1,first=30,cooldown=60,duration=20
