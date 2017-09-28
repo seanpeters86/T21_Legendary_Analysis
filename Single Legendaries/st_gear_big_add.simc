@@ -1,0 +1,183 @@
+ptr=1
+
+priest="LotV"
+level=110
+talents=1211231
+spec=shadow
+role=spell
+position=back
+artifact=47:0:0:0:0:764:1:765:1:766:1:767:4:768:1:769:1:770:1:771:4:772:4:773:4:774:4:775:4:776:4:777:4:778:4:779:1:1347:1:1381:1:1573:4:1574:1:1575:1:1576:24:1650:1
+crucible=1739:3:1780:3:1573:2:776:1
+
+report_details=0
+fixed_time=1
+priest_ignore_healing=1
+single_actor_batch=1
+chart_show_relative_difference=1
+default_actions=1
+
+head=hood_of_blind_absolution,id=147165,ilevel=930
+neck=string_of_extracted_incisors,id=147013,ilevel=930,enchant=mark_of_the_claw
+shoulders=shoulderpads_of_whispering_twilight,id=146997,ilevel=930
+back=shawl_of_blind_absolution,id=147163,ilevel=930,enchant=binding_of_intellect
+chest=robes_of_blind_absolution,id=147167,ilevel=930
+wrists=ravenous_devotees_bracelets,id=147000,ilevel=930
+hands=gloves_of_furtive_oppression,id=146988,ilevel=930
+waist=striferiddled_cinch,id=146999,ilevel=930
+legs=leggings_of_blind_absolution,id=147166,ilevel=930
+feet=slippers_of_enduring_vigilance,id=146987,ilevel=930
+finger1=seal_of_the_second_duumvirate,id=147195,ilevel=930,enchant=binding_of_haste
+finger2=scaled_band_of_servitude,id=147020,ilevel=930,enchant=binding_of_haste
+trinket1=tarnished_sentinel_medallion,id=147017,ilevel=930
+trinket2=terror_from_below,id=147016,ilevel=930
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=147111/147082/147111,relic_ilevel=930/930/930
+off_hand=secrets_of_the_void,id=133958
+set_bonus=tier20_2pc=0
+set_bonus=tier20_4pc=0
+set_bonus=tier21_2pc=1
+set_bonus=tier21_4pc=1
+
+copy="S2M","LotV"
+talents=1212233
+
+# Shoulders
+copy="LotV_Shoulders","LotV"
+shoulder=mother_shahrazs_seduction,id=132437,ilevel=970
+
+# Wrists
+copy="LotV_Wrists","LotV"
+wrists=anunds_seared_shackles,id=132409,ilevel=970
+
+# Belt
+copy="LotV_Belt","LotV"
+waist=mangazas_madness,id=132864,ilevel=970
+
+# Cloak
+copy="LotV_Cloak","LotV"
+back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+
+# Neck
+copy="LotV_Prydaz","LotV"
+neck=prydaz_xavarics_magnum_opus,id=132444,ilevel=970,gem_id=151583,enchant=mark_of_the_claw
+
+# Trinket
+copy="LotV_Trinket","LotV"
+trinket2=kiljaedens_burning_wish,id=144259,ilevel=970
+
+# Head
+copy="LotV_Helm","LotV"
+head=zenkaram_iridis_anadem,id=133971,ilevel=970
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+
+# Ring
+copy="LotV_Twins","LotV"
+finger2=the_twins_painful_touch,id=133973,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# ToF Ring - FOTM
+copy="LotV_SotHP-FotM","LotV"
+talents=2211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# ToF Ring - SWV
+copy="LotV_SotHP-SWV","LotV"
+talents=3211231
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# Chest
+copy="LotV_Chest","LotV"
+chest=,id=151814,ilevel=970
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+
+# Feet
+copy="LotV_Norg","LotV"
+feet=norgannons_foresight,id=132455,ilevel=970
+
+# Sephuz
+copy="LotV_Sephuz","LotV"
+finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# Sephuz No-Proc
+copy="LotV_Sephuz-NoProc","LotV"
+priest_suppress_sephuz=1
+finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# Crafted
+copy="LotV_Crafted","LotV"
+shoulder=celumbra_the_nights_dichotomy,id=146666,ilevel=970,gem_id=151583/130220/130220
+
+# Insignia of the Grand Army
+copy="LotV_Insignia","LotV"
+finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# Shoulders
+copy="S2M_Shoulders","S2M"
+shoulder=mother_shahrazs_seduction,id=132437,ilevel=970
+
+# Wrists
+copy="S2M_Wrists","S2M"
+wrists=anunds_seared_shackles,id=132409,ilevel=970
+
+# Belt
+copy="S2M_Belt","S2M"
+waist=mangazas_madness,id=132864,ilevel=970
+
+# Cloak
+copy="S2M_Cloak","S2M"
+back=zeks_exterminatus,id=144438,ilevel=970,enchant=binding_of_intellect
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+
+# Neck
+copy="S2M_Prydaz","S2M"
+neck=prydaz_xavarics_magnum_opus,id=132444,ilevel=970,gem_id=151583,enchant=mark_of_the_claw
+
+# Trinket
+copy="S2M_Trinket","S2M"
+trinket2=kiljaedens_burning_wish,id=144259,ilevel=970
+
+# Head
+copy="S2M_Helm","S2M"
+head=zenkaram_iridis_anadem,id=133971,ilevel=970
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+
+# Ring
+copy="S2M_Twins","S2M"
+finger2=the_twins_painful_touch,id=133973,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# ToF Ring - FOTM
+copy="S2M_SotHP-FotM","S2M"
+talents=2212233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# ToF Ring - SWV
+copy="S2M_SotHP-SWV","S2M"
+talents=3212233
+finger2=,id=151646,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# Chest
+copy="S2M_Chest","S2M"
+chest=,id=151814,ilevel=970
+hands=gloves_of_blind_absolution,id=147164,ilevel=930
+
+# Feet
+copy="S2M_Norg","S2M"
+feet=norgannons_foresight,id=132455,ilevel=970
+
+# Sephuz
+copy="S2M_Sephuz","S2M"
+finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# Sephuz No-Proc
+copy="S2M_Sephuz-NoProc","S2M"
+priest_suppress_sephuz=1
+finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+# Crafted
+copy="S2M_Crafted","S2M"
+shoulder=celumbra_the_nights_dichotomy,id=146666,ilevel=970,gem_id=151583/130220/130220
+
+# Insignia of the Grand Army
+copy="S2M_Insignia","S2M"
+finger2=insignia_of_the_grand_army,id=152626,ilevel=970,enchant=binding_of_haste,gem_id=151583
+
+raid_events+=/adds,count=1,first=30,cooldown=60,duration=20

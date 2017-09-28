@@ -1,0 +1,107 @@
+priest="LotV"
+level=110
+talents=1211231
+spec=shadow
+role=spell
+position=back
+artifact=47:0:0:0:0:764:1:765:1:766:1:767:4:768:1:769:1:770:1:771:4:772:4:773:4:774:4:775:4:776:4:777:4:778:4:779:1:1347:1:1381:1:1573:4:1574:1:1575:1:1576:24:1650:1
+crucible=1739:3
+
+report_details=0
+fixed_time=1
+priest_ignore_healing=1
+single_actor_batch=1
+chart_show_relative_difference=1
+default_actions=1
+
+head=hood_of_blind_absolution,id=147165,ilevel=930
+neck=string_of_extracted_incisors,id=147013,ilevel=930,enchant=mark_of_the_claw
+shoulders=shoulderpads_of_whispering_twilight,id=146997,ilevel=930
+back=shawl_of_blind_absolution,id=147163,ilevel=930,enchant=binding_of_intellect
+chest=robes_of_blind_absolution,id=147167,ilevel=930
+wrists=ravenous_devotees_bracelets,id=147000,ilevel=930
+hands=gloves_of_furtive_oppression,id=146988,ilevel=940
+waist=mangazas_madness,id=132864,ilevel=970
+legs=leggings_of_blind_absolution,id=147166,ilevel=930
+feet=slippers_of_enduring_vigilance,id=146987,ilevel=930
+finger1=seal_of_the_second_duumvirate,id=147195,ilevel=940,enchant=binding_of_haste
+finger2=sephuzs_secret,id=132452,ilevel=970,enchant=binding_of_haste,gem_id=151583
+trinket1=tarnished_sentinel_medallion,id=147017,ilevel=930
+trinket2=terror_from_below,id=147016,ilevel=930
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/940/940
+off_hand=secrets_of_the_void,id=133958
+
+copy="LotV_Torment_the_Weak","LotV"
+crucible=1739:3:1780:1
+copy="LotV_Shadowbind","LotV"
+crucible=1739:3:1778:1
+copy="LotV_Chaotic_Darkness","LotV"
+crucible=1739:3:1779:1
+copy="LotV_Dark_Sorrows","LotV"
+crucible=1739:3:1781:1
+copy="LotV_Master_of_Shadows","LotV"
+crucible=1739:3:1771:1
+copy="LotV_Murderous_Intent","LotV"
+crucible=1739:3:1774:1
+copy="LotV_Shocklight","LotV"
+crucible=1739:3:1777:1
+copy="LotV_Light_Speed","LotV"
+crucible=1739:3:1770:1
+copy="LotV_Secure_in_the_Light","LotV"
+crucible=1739:3:1782:1
+copy="LotV_Infusion_of_Light","LotV"
+crucible=1739:3:1783:1
+
+# +68 ilvls - done
+copy="LotV_1","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/945/940
+
+# +70 ilvls - done
+copy="LotV_2","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/950/940
+
+# +70 ilvls
+copy="LotV_3","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=945/950/940
+
+# SWD (Shadow) - Death's Embrace
+copy="LotV_DE","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/940/940
+crucible=1739:3:774:1
+
+# MB (Blood) - Mind Shattering
+copy="LotV_MS","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/940/940
+crucible=1739:3:772:1
+
+# AS (Shadow) - Unleash the Shadows
+copy="LotV_UtS","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/940/940
+crucible=1739:3:767:1
+
+# VT (Blood) - Touch of Darkness
+copy="LotV_ToD","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/940/940
+crucible=1739:3:777:1
+
+# Shadowfiend (Blood) - Fiending Dark
+copy="LotV_FD","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/940/940
+crucible=1739:3:1573:1
+
+# Shadow Damage (Shadow) - Creeping Shadows
+copy="LotV_CS","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/940/940
+crucible=1739:3:776:1
+
+# Mind Sear (Shadow) - Void Corruption
+copy="LotV_VC","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/940/940
+crucible=1739:3:778:1
+
+# SWP (Shadow) - To the Pain
+copy="LotV_TtP","LotV"
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=940/940/940
+crucible=1739:3:773:1
+
+raid_events+=/adds,count=1,first=30,cooldown=60,duration=20
