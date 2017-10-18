@@ -1,13 +1,13 @@
 ptr=1
 
-priest="FD_4"
+priest="Base"
 level=110
 talents=1211231
 spec=shadow
 role=spell
 position=back
 artifact=47:0:0:0:0:764:1:765:1:766:1:767:4:768:1:769:1:770:1:771:4:772:4:773:4:774:4:775:4:776:4:777:4:778:4:779:1:1347:1:1381:1:1573:4:1574:1:1575:1:1576:24:1650:1
-crucible=1739:3
+crucible=1739:3:1780:3:1573:1:776:2
 
 report_details=0
 fixed_time=1
@@ -38,31 +38,63 @@ finger2=sephuzs_secret,id=132452,ilevel=1000,enchant=binding_of_haste,gem_id=151
 # finger2=loop_of_the_lifebinder,id=152688,ilevel=960,enchant=binding_of_haste
 trinket1=amanthuls_vision,id=154172,ilevel=1000
 trinket2=acrid_catalyst_injector,id=151955,ilevel=960
-main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=965/965/965
+main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=152054/152028/152054,relic_ilevel=960/960/960
 off_hand=secrets_of_the_void,id=133958
+set_bonus=tier20_2pc=0
+set_bonus=tier20_4pc=0
+set_bonus=tier21_2pc=0
+set_bonus=tier21_4pc=0
 
-# AS (Shadow) - Unleash the Shadows
-copy="UtS_5","FD_4"
-main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=965/965/965
-crucible=1739:3:767:1
+# 2 piece
+copy="T19_2pc","Base"
+set_bonus=tier19_2pc=1
 
-copy="UtS_6","FD_4"
-main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=965/965/965
-crucible=1739:3:767:2
+copy="T20_2pc","Base"
+set_bonus=tier20_2pc=1
 
-copy="UtS_7","FD_4"
-main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=965/965/965
-crucible=1739:3:767:3
+copy="T21_2pc","Base"
+set_bonus=tier21_2pc=1
 
-# Shadowfiend (Blood) - Fiending Dark
-copy="FD_5","FD_4"
-main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=965/965/965
-crucible=1739:3:1573:1
+# 4 piece
+copy="T19_4pc","Base"
+set_bonus=tier19_2pc=1
+set_bonus=tier19_4pc=1
 
-copy="FD_6","FD_4"
-main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=965/965/965
-crucible=1739:3:1573:2
+copy="T20_4pc","Base"
+set_bonus=tier20_2pc=1
+set_bonus=tier20_4pc=1
 
-copy="FD_7","FD_4"
-main_hand=xalatath_blade_of_the_black_empire,id=128827,bonus_id=740,gem_id=136719/147754/136719,relic_ilevel=965/965/965
-crucible=1739:3:1573:3
+copy="T21_4pc","Base"
+set_bonus=tier21_2pc=1
+set_bonus=tier21_4pc=1
+
+# 6 piece
+copy="T19_4pc_T20_2pc","Base"
+set_bonus=tier19_2pc=1
+set_bonus=tier19_4pc=1
+set_bonus=tier20_2pc=1
+
+copy="T19_4pc_T21_2pc","Base"
+set_bonus=tier19_2pc=1
+set_bonus=tier19_4pc=1
+set_bonus=tier21_2pc=1
+
+copy="T20_4pc_T19_2pc","Base"
+set_bonus=tier20_2pc=1
+set_bonus=tier20_4pc=1
+set_bonus=tier19_2pc=1
+
+copy="T20_4pc_T21_2pc","Base"
+set_bonus=tier20_2pc=1
+set_bonus=tier20_4pc=1
+set_bonus=tier21_2pc=1
+
+copy="T21_4pc_T19_2pc","Base"
+set_bonus=tier21_2pc=1
+set_bonus=tier21_4pc=1
+set_bonus=tier19_2pc=1
+
+copy="T21_4pc_T20_2pc","Base"
+set_bonus=tier21_2pc=1
+set_bonus=tier21_4pc=1
+set_bonus=tier20_2pc=1
