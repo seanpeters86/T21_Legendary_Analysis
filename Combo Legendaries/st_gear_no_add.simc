@@ -1,5 +1,3 @@
-ptr=1
-
 priest="LotV"
 level=110
 talents=1211231
@@ -72,10 +70,9 @@ shoulder=mother_shahrazs_seduction,id=132437,ilevel=1000
 talents=2211231
 finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
-copy="LotV_Shoulders_SotHP-SWV","LotV"
+copy="LotV_Shoulders_Insignia","LotV"
 shoulder=mother_shahrazs_seduction,id=132437,ilevel=1000
-talents=3211231
-finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
+finger2=insignia_of_the_grand_army,id=152626,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
 copy="LotV_Wrists_Belt","LotV"
 wrists=anunds_seared_shackles,id=132409,ilevel=1000
@@ -105,10 +102,9 @@ wrists=anunds_seared_shackles,id=132409,ilevel=1000
 talents=2211231
 finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
-copy="LotV_Wrists_SotHP-SWV","LotV"
+copy="LotV_Wrists_Insignia","LotV"
 wrists=anunds_seared_shackles,id=132409,ilevel=1000
-talents=3211231
-finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
+finger2=insignia_of_the_grand_army,id=152626,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
 copy="LotV_Belt_Cloak","LotV"
 waist=mangazas_madness,id=132864,ilevel=1000
@@ -133,10 +129,9 @@ waist=mangazas_madness,id=132864,ilevel=1000
 talents=2211231
 finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
-copy="LotV_Belt_SotHP-SWV","LotV"
+copy="LotV_Belt_Insignia","LotV"
 waist=mangazas_madness,id=132864,ilevel=1000
-talents=3211231
-finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
+finger2=insignia_of_the_grand_army,id=152626,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
 copy="LotV_Cloak_Chest","LotV"
 back=zeks_exterminatus,id=144438,ilevel=1000,enchant=binding_of_intellect
@@ -160,11 +155,10 @@ shoulders=gilded_seraphs_amice,id=152159,ilevel=960
 talents=2211231
 finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
-copy="LotV_Cloak_SotHP-SWV","LotV"
+copy="LotV_Cloak_Insignia","LotV"
 back=zeks_exterminatus,id=144438,ilevel=1000,enchant=binding_of_intellect
 shoulders=gilded_seraphs_amice,id=152159,ilevel=960
-talents=3211231
-finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
+finger2=insignia_of_the_grand_army,id=152626,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
 copy="LotV_Chest_Sephuz","LotV"
 chest=,id=151814,ilevel=1000
@@ -180,20 +174,18 @@ chest=,id=151814,ilevel=1000
 talents=2211231
 finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
-copy="LotV_Chest_SotHP-SWV","LotV"
+copy="LotV_Chest_Insignia","LotV"
 chest=,id=151814,ilevel=1000
-talents=3211231
-finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
+finger2=insignia_of_the_grand_army,id=152626,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
 copy="LotV_Sephuz_SotHP-FotM","LotV"
 talents=2211231
 finger1=sephuzs_secret,id=132452,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
-copy="LotV_Sephuz_SotHP-SWV","LotV"
-talents=3211231
+copy="LotV_Sephuz_Insignia","LotV"
 finger1=sephuzs_secret,id=132452,ilevel=1000,enchant=binding_of_haste,gem_id=151583
-finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
+finger2=insignia_of_the_grand_army,id=152626,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
 copy="LotV_Sephuz_NoProc_SotHP-FotM","LotV"
 talents=2211231
@@ -201,8 +193,7 @@ priest_suppress_sephuz=1
 finger1=sephuzs_secret,id=132452,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
 
-copy="LotV_Sephuz_NoProc_SotHP-SWV","LotV"
-talents=3211231
+copy="LotV_Sephuz_NoProc_Insignia","LotV"
 priest_suppress_sephuz=1
 finger1=sephuzs_secret,id=132452,ilevel=1000,enchant=binding_of_haste,gem_id=151583
-finger2=,id=151646,ilevel=1000,enchant=binding_of_haste,gem_id=151583
+finger2=insignia_of_the_grand_army,id=152626,ilevel=1000,enchant=binding_of_haste,gem_id=151583
